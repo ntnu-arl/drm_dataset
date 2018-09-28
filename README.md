@@ -1,7 +1,4 @@
 # Distributed Radiation Mapping Dataset
-Distributed Radiation Field Estimation Dataset
-
-
 
 [Autonomous Experiment Data](https://drive.google.com/file/d/1hJWvA0UpdVv_LKXcI5c_t5wd4rcPV3IT/view?usp=sharing "Autonomous Experiment Data")
 
