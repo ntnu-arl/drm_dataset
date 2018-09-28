@@ -4,4 +4,4 @@
 
 [Ground Truth Data](https://drive.google.com/drive/folders/1yF1L8DOs0-Y43IQRkJY5tGvG-M9QcGRM?usp=sharing "Ground Truth Data")
 
-Additional information will be released by 9/30/18.
+This page will be updated with additional by 9/30/18.
