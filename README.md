@@ -1,7 +1,7 @@
 # Distributed Radiation Mapping Dataset
 
-[Autonomous Experiment Data](https://drive.google.com/drive/folders/13X-jI5V2ogBcyzvF-z6oypGja7fG2DNt?usp=sharing "Autonomous Distributed Radiation Mapping Experiment Data")
+This repository contains links to the datasets described in the paper: 
 
-[Ground Truth Data](https://drive.google.com/drive/folders/1yF1L8DOs0-Y43IQRkJY5tGvG-M9QcGRM?usp=sharing "Ground Truth Data")
+"Distributed Radiation Field Estimation and Informative Path Planning for Nuclear Environment Characterization".
 
-This page will be updated with additional by 9/30/18.
+Please checkout the [wiki](https://github.com/unr-arl/drm_dataset/wiki) for links to the datasets, and a description of the data.
